@@ -1,0 +1,9 @@
+{
+  "name": "Prize Card",
+  "short_name": "Prize Card",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#181818",
+  "description": "A simply app to check your current balance in your prize cards",
+  "icons": []
+}
